@@ -5,7 +5,7 @@ print("=^._.^= Cat Name Generator =^._.^=")
 # x = "Merlin Counting Stars of Thaifong"
 # print(x)
 
-cat_names = ["Merlin", "Celeste", "Kiki", "Muffincakes", "Dog", "Wombat", "Pyewacket"]
+cat_names = ["Merlin", "Celeste", "Smiley", "Blue", "Kiki", "Muffincakes", "Dog", "Wombat", "Pyewacket"]
 breeder_names = ["Tailgate", "Earl Grey", "Xanadu", "Zazicat", "Tabbypatch"]
 award_titles = ["GC", "RW", "CH"]
 
