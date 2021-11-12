@@ -11,8 +11,10 @@ award_titles = ["GC", "RW", "CH"]
 
 def select_from_array(array):
   return random.choice(array)
+
     
 for x in range(5):
+
 
   title = select_from_array(award_titles)
   # print(title)
